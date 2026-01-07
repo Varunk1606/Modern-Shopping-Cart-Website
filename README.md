@@ -27,14 +27,14 @@ This project is ideal for beginners and students to understand frontend fundamen
 
 ## 📁 Project Structure
 -Modern-Shopping-Cart-Website/
-│
-├── img/ # Images and assets
-├── index.html # Main HTML file
-├── style.css # CSS styling
-├── server.js # Node.js backend server
-├── package.json # Project dependencies
-├── package-lock.json # Dependency lock file
-└── README.md # Project documentation
+
+->img/ # Images and assets
+->index.html # Main HTML file
+->style.css # CSS styling
+->server.js # Node.js backend server
+-> package.json # Project dependencies
+-> package-lock.json # Dependency lock file
+-> README.md # Project documentation
 
 
 ---
