@@ -21,20 +21,20 @@ This project is ideal for beginners and students to understand frontend fundamen
 ### Frontend
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ---
 
 ## 📁 Project Structure
 -Modern-Shopping-Cart-Website/
 
-->img/ # Images and assets
-->index.html # Main HTML file
-->style.css # CSS styling
-->server.js # Node.js backend server
--> package.json # Project dependencies
--> package-lock.json # Dependency lock file
--> README.md # Project documentation
+->img/
+->index.html 
+->style.css 
+->server.js
+-> package.json 
+-> package-lock.json 
+-> README.md 
 
 
 ---
